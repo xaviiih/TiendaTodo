@@ -1,0 +1,7 @@
+**/target/
+**/.idea/
+**/*.iml
+**/.vscode/
+Thumbs.db
+Wallet/
+EnvioCarrito.zip
